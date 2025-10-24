@@ -1,0 +1,15 @@
+Sub pages to be created:
+- team-1.html
+- team-2.html
+- jugend.html
+- news.html
+- spielplan.html
+- verein.html
+- vorstand.html
+- chronik.html
+- anlage.html
+- mitglied.html
+- sponsoren.html
+- kontakt.html
+- impressum.html
+- datenschutz.html

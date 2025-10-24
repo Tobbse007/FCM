@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Kreis -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  
+  <!-- Text "FCM" in der Mitte -->
+  <text x="100" y="105" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#FFFFFF">FCM</text>
+  
+  <!-- Text "1950" unten -->
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#FFFFFF">1950</text>
+</svg>
